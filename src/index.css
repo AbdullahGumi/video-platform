@@ -1,0 +1,21 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@media (max-width: 770px) { 
+  ::-webkit-scrollbar {
+    display: none;
+  }
+ }
+
+body {
+  margin: 0px;
+  /* padding: 20px */
+  font-family: 'Inter', sans-serif;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

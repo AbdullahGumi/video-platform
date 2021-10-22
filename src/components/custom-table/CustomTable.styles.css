@@ -1,0 +1,9 @@
+#printTable tbody > tr:last-child  {
+    border-bottom: 0;
+
+  }
+
+#printTable tbody > tr:hover{
+  color: white;
+  background-color: #6f538b;
+  }

@@ -1,0 +1,4 @@
+export const CustomersActionTypes = {
+	'SET_CUSTOMERS_TABLE_DATA': 'SET_CUSTOMERS_TABLE_DATA',
+	'DELETE_CUSTOMER': 'DELETE_CUSTOMER',
+}	
