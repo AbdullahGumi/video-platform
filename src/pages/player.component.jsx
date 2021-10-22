@@ -21,7 +21,7 @@ const Player = () => {
     
     return (
         <div className='py-12 px-24 h-screen'>
-           <div className="sm:w-full w-1/2">
+           <div className="">
             <h2 className='sm:font-normal sm:text-sm sm:text-gray-500 font-semibold  text-3xl text-white pb-4 text-left'>Video name</h2>
                 <Video poster>
                     <source src="https://media.w3.org/2010/05/sintel/trailer_hd.mp4" />
